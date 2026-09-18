@@ -1,1 +1,5 @@
-# ads-projeto-semestre2-grupox
+Projeto
+Resumo do Projeto
+Integrantes do Grupo
+Tecnologias Utilizadas
+Como Executar o Projeto Localmente
